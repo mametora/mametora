@@ -23,6 +23,38 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mametora/mametora/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mametora&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=mametora&count_private=true&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=mametora&count_private=true&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=mametora&count_private=true&show_icons=true" />
+</picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mametora)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mametora&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mametora"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mametora" />
+</picture>
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mametora&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mametora"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mametora" />
+</picture>
