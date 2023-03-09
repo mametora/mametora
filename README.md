@@ -15,46 +15,48 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Access Counter](https://count.getloli.com/get/@mametora?theme=gelbooru)
+<p align="center">
+  <img src="https://count.getloli.com/get/@mametora?theme=gelbooru" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mametora/mametora/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mametora/mametora/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mametora/mametora/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mametora/mametora/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mametora/mametora/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/mametora/mametora/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=mametora&count_private=true&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=mametora&count_private=true&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=mametora&count_private=true&show_icons=true" />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=mametora&count_private=true&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=mametora&count_private=true&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mametora&count_private=true&show_icons=true" />
+  </picture>
+</p>
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mametora&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mametora"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mametora" />
-</picture>
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mametora&theme=dark"
+      media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mametora"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mametora" />
+  </picture>
+</p>
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mametora&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mametora"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mametora" />
-</picture>
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mametora&theme=dark"
+      media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mametora"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mametora" />
+  </picture>
+</p>
