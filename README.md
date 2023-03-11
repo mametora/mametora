@@ -1,15 +1,3 @@
-<p align="right">
-  <img src="https://count.getloli.com/get/@mametora?theme=rule34"/>
-</p>
-
-# Hi there 👋
-
-I'm a software engineer who loves Ruby and TypeScript.
-
-- 🔭 I’m currently working on [fact-real](https://www.fact-real.com).
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
-- 📫 How to reach me: [Twitter](https://twitter.com/mmtrum).
-
 <!--
 **mametora/mametora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,6 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://count.getloli.com/get/@mametora?theme=rule34" align="right" height="70" />
+
+# Hi there 👋
+
+I'm a software engineer who loves Ruby and TypeScript.
+
+- 🔭 I’m currently working on [fact-real](https://www.fact-real.com).
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
+- 📫 How to reach me: [Twitter](https://twitter.com/mmtrum).
 
 # What can i do?
 
