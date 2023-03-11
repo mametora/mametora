@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://count.getloli.com/get/@mametora?theme=rule34"/>
+</p>
+
 # Hi there 👋
 
 I'm a software engineer who loves Ruby and TypeScript.
@@ -122,8 +126,4 @@ Here are some ideas to get you started:
         <img alt="github contribution grid snake animation"
         src="https://raw.githubusercontent.com/mametora/mametora/output/github-contribution-grid-snake.svg">
     </picture>
-</p>
-
-<p align="center">
-    <img src="https://count.getloli.com/get/@mametora?theme=gelbooru" />
 </p>
