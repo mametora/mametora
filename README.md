@@ -25,7 +25,7 @@ I'm a software engineer who loves Ruby and TypeScript.
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
 - 📫 How to reach me: [Twitter](https://twitter.com/mmtrum).
 
-# What can i do?
+# What I can do
 
 ## Programming Languages
 
