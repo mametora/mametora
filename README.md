@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#">
-  <img src="https://count.getloli.com/get/@mametora?theme=rule34" align="right" />
-</a>
+<img src="https://count.getloli.com/get/@mametora?theme=rule34" align="right" />
 
 # Hi there 👋
 
