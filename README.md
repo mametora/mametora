@@ -31,6 +31,17 @@ I'm a software engineer who loves Ruby and TypeScript.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
+## Query Languages
+
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logoColor=white)
+
+## Package Managers
+
+![Bundler](https://img.shields.io/badge/-Bundler-7EC7EB?style=flat-square&logo=Bundler&logoColor=black)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white)
+
 ## Frameworks
 
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white)
