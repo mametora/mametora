@@ -28,6 +28,7 @@ I'm a software engineer who loves Ruby and TypeScript.
 ## Programming Languages
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
