@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm a software engineer who loves Ruby and TypeScript.
 
 - 🔭 I’m currently working on [fact-real](https://www.fact-real.com).
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
+- 🌱 I’m currently learning LLM.
 - 📫 How to reach me: [Twitter](https://twitter.com/mmtrum).
 
 # What I can do
