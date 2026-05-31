@@ -99,31 +99,31 @@ I'm a software engineer who loves Ruby and TypeScript.
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mametora&count_private=true&show_icons=true&theme=dark"
+      srcset="https://github-stats-extended.vercel.app/api?username=mametora&count_private=true&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=mametora&count_private=true&show_icons=true"
+    <source srcset="https://github-stats-extended.vercel.app/api?username=mametora&count_private=true&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mametora&count_private=true&show_icons=true" />
+    <img src="https://github-stats-extended.vercel.app/api?username=mametora&count_private=true&show_icons=true" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mametora&theme=dark"
+    <source srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mametora&theme=dark"
       media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mametora"
+    <source srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mametora"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mametora" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mametora" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mametora&theme=dark"
+    <source srcset="https://github-stats-extended.vercel.app/api/wakatime?username=mametora&theme=dark"
       media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mametora"
+    <source srcset="https://github-stats-extended.vercel.app/api/wakatime?username=mametora"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mametora" />
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=mametora" />
   </picture>
 </p>
 
